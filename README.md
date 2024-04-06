@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </p>
 
-## Vamos nos conectar!
+## Contatos
 
 Estou sempre interessado em discutir projetos interessantes ou oportunidades de colaboração. Não hesite em entrar em contato comigo:
 
