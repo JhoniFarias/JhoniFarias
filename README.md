@@ -16,8 +16,6 @@
 
 ## Contatos
 
-Estou sempre interessado em discutir projetos interessantes ou oportunidades de colaboração. Não hesite em entrar em contato comigo:
-
 - 📫 Como me alcançar: [jhonifarias.developer@gmail.com](mailto:jhonifarias.developer@gmail.com)
 - 💼 Conecte-se comigo no [LinkedIn](www.linkedin.com/in/jhoni-farias-dos-santos)
 
