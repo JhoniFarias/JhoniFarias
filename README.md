@@ -17,6 +17,6 @@
 ## Contatos
 
 - 📫 Como me alcançar: [jhonifarias.developer@gmail.com](mailto:jhonifarias.developer@gmail.com)
-- 💼 Conecte-se comigo no [www.linkedin.com/in/jhoni-farias-dos-santos](www.linkedin.com/in/jhoni-farias-dos-santos)
+- 💼 Conecte-se comigo no [www.linkedin.com/in/jhoni-farias-dos-santos]
 
 
